@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 疯癫的石头
 subtitle:
 description:
-author: John Doe
+author: 王仁兴
 language: zh-Hans
 timezone:
 
@@ -69,5 +69,6 @@ theme: next
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@github.com:cookerwang/cookerwang.github.io.git
+ type: git
+ repository: git@github.com:cookerwang/cookerwang.github.io.git
+ branch: master
